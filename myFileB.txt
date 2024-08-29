@@ -1,6 +1,6 @@
 this is created with different branch
 
-Updated values
+Updated values changed from remote repo
 
 changes only in local file
 
