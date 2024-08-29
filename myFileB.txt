@@ -3,3 +3,5 @@ this is created with different branch
 Updated values
 
 changes only in local file
+
+this is a new change which is not yet commited
