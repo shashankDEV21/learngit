@@ -2,6 +2,8 @@ this is created with different branch
 
 Updated values changed from remote repo
 
+new line created from remote repo
+
 changes only in local file
 
 this is a new change which is now commited and also pushed
